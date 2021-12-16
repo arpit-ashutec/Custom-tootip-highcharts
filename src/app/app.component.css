@@ -1,0 +1,12 @@
+p {
+  font-family: Lato;
+}
+
+.tool-tip-head {
+  display: flex;
+  justify-content: space-between;
+  min-width: 20vw;
+  height: 8vh;
+  border-bottom: 1px solid gray;
+  ;
+}
